@@ -14,3 +14,6 @@ docker-compose up -d
 ```
 docker-compose logs -f
 ```
+
+Example use:
+https://docs.harmony.one/home/developers/tutorials/the-graph-subgraphs/building-and-deploying-subgraph-local-node
